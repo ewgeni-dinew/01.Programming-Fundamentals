@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01-Type Boundaries", "Task 01-Type Boundaries\Task 01-Type Boundaries.csproj", "{FACFBD5C-02E4-4C52-9501-F57A056F5B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02-Num Checker", "Task 02-Num Checker\Task 02-Num Checker.csproj", "{51F4F434-89E7-4814-BD40-839DBCE2E830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03-Water Overflow", "Task 03-Water Overflow\Task 03-Water Overflow.csproj", "{70FE5FA9-152D-4683-A431-D12029F5E5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04-Tourist Info", "Task 04-Tourist Info\Task 04-Tourist Info.csproj", "{0A731CCE-D493-4026-8F4B-DCA0A43466F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 05-Weather Forecast", "Task 05-Weather Forecast\Task 05-Weather Forecast.csproj", "{4A49CA13-9992-46F8-9F04-5790120413D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 06-Catch the thief", "Task 06-Catch the thief\Task 06-Catch the thief.csproj", "{EBC0219D-A71E-48F9-BAEE-4450004B4C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 07-House Builder", "Task 07-House Builder\Task 07-House Builder.csproj", "{675B187F-597B-49D7-A8CF-D669CF2CF83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 09-Word", "Task 09-Word\Task 09-Word.csproj", "{34ED03B6-1020-464A-A27B-9EAB33EE410E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 10-Sum of Chars", "Task 10-Sum of Chars\Task 10-Sum of Chars.csproj", "{6E84725C-8FE4-4820-A478-C11D2A5DE16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 11-String Concat", "Task 11-String Concat\Task 11-String Concat.csproj", "{8B3A00A0-BD3C-475A-A4DF-86FB4C1FA805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 12-Decrypting", "Task 12-Decrypting\Task 12-Decrypting.csproj", "{FC29131E-241C-4224-A586-EA1FEC870DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACFBD5C-02E4-4C52-9501-F57A056F5B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACFBD5C-02E4-4C52-9501-F57A056F5B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACFBD5C-02E4-4C52-9501-F57A056F5B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACFBD5C-02E4-4C52-9501-F57A056F5B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F4F434-89E7-4814-BD40-839DBCE2E830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F4F434-89E7-4814-BD40-839DBCE2E830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F4F434-89E7-4814-BD40-839DBCE2E830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F4F434-89E7-4814-BD40-839DBCE2E830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FE5FA9-152D-4683-A431-D12029F5E5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FE5FA9-152D-4683-A431-D12029F5E5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FE5FA9-152D-4683-A431-D12029F5E5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FE5FA9-152D-4683-A431-D12029F5E5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A731CCE-D493-4026-8F4B-DCA0A43466F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A731CCE-D493-4026-8F4B-DCA0A43466F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A731CCE-D493-4026-8F4B-DCA0A43466F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A731CCE-D493-4026-8F4B-DCA0A43466F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A49CA13-9992-46F8-9F04-5790120413D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A49CA13-9992-46F8-9F04-5790120413D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A49CA13-9992-46F8-9F04-5790120413D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A49CA13-9992-46F8-9F04-5790120413D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC0219D-A71E-48F9-BAEE-4450004B4C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC0219D-A71E-48F9-BAEE-4450004B4C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC0219D-A71E-48F9-BAEE-4450004B4C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC0219D-A71E-48F9-BAEE-4450004B4C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B187F-597B-49D7-A8CF-D669CF2CF83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675B187F-597B-49D7-A8CF-D669CF2CF83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675B187F-597B-49D7-A8CF-D669CF2CF83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675B187F-597B-49D7-A8CF-D669CF2CF83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34ED03B6-1020-464A-A27B-9EAB33EE410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34ED03B6-1020-464A-A27B-9EAB33EE410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34ED03B6-1020-464A-A27B-9EAB33EE410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34ED03B6-1020-464A-A27B-9EAB33EE410E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E84725C-8FE4-4820-A478-C11D2A5DE16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E84725C-8FE4-4820-A478-C11D2A5DE16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E84725C-8FE4-4820-A478-C11D2A5DE16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E84725C-8FE4-4820-A478-C11D2A5DE16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3A00A0-BD3C-475A-A4DF-86FB4C1FA805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3A00A0-BD3C-475A-A4DF-86FB4C1FA805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3A00A0-BD3C-475A-A4DF-86FB4C1FA805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3A00A0-BD3C-475A-A4DF-86FB4C1FA805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC29131E-241C-4224-A586-EA1FEC870DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC29131E-241C-4224-A586-EA1FEC870DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC29131E-241C-4224-A586-EA1FEC870DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC29131E-241C-4224-A586-EA1FEC870DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

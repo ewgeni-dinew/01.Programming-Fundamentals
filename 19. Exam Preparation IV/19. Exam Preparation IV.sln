@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01-Coffee", "Task 01-Coffee\Task 01-Coffee.csproj", "{5323C2DD-672C-4E61-86BE-C412E8D9605A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02-Command", "Task 02-Command\Task 02-Command.csproj", "{312603A4-3176-4FC0-B2DD-4007F5C6243E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5323C2DD-672C-4E61-86BE-C412E8D9605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5323C2DD-672C-4E61-86BE-C412E8D9605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5323C2DD-672C-4E61-86BE-C412E8D9605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5323C2DD-672C-4E61-86BE-C412E8D9605A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312603A4-3176-4FC0-B2DD-4007F5C6243E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312603A4-3176-4FC0-B2DD-4007F5C6243E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312603A4-3176-4FC0-B2DD-4007F5C6243E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312603A4-3176-4FC0-B2DD-4007F5C6243E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
